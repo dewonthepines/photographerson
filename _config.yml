@@ -6,14 +6,14 @@ image_thumbs_loc: "/images/thumbs"
 google_analytics: "UA-46465113-2"
 
 # UI configs
-title: "Photography by Matt"
-subtitle: "Small collection of decent photographs"
-author: "Matt K."
+title: "Photography Portfiolio"
+subtitle: "Some neat photos!""
+author: "Matt Leor Kotlar"
 header:
  title: "Photos"
- subtitle: "and even more Photos"
+ subtitle: "Photos, and More Photos!"
 footer:
- name: "Hi."
+ name: "Matt Leor Kotlar"
  bio: "amateur photographer / cinematographer"
  github: ""
 web_design: "AJ"
